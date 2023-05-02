@@ -9,7 +9,7 @@ public class Q4 {
         System.out.println("T: ");
         int t = input.nextInt();
         System.out.println("R: ");
-        double r = input.nextDouble();;
+        double r = input.nextDouble();
 
         System.out.println("Simple Interest: " + (p*t*r)/100);
     }
